@@ -52,7 +52,7 @@ public class MainActivity extends AppCompatActivity {
 
         item = (TextView)findViewById(R.id.tvRNG);
         mDatabaseHelper = new DatabaseHelper(this);
-        final MediaPlayer mediaPlayer = MediaPlayer.create(this, R.raw.spin);
+        final MediaPlayer mediaPlayer = MediaPlayer.create(this, R.raw.soundeffect);
 
         RNGenerator = (ImageView)findViewById(R.id.ivRNG);
         RNGenerator.setOnClickListener(new View.OnClickListener() {
