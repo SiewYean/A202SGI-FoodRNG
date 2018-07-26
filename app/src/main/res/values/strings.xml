@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FoodRNG</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="tv_RNG"></string>
+    <string name="btn_ViewList">View full list</string>
+    <string name="tvEditItem">Edit Item</string>
+    <string name="etNewItemName">Item Name</string>
+    <string name="btnDelete">Delete</string>
+    <string name="btnSave">Save</string>
+
+</resources>
